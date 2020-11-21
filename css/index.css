@@ -1,0 +1,52 @@
+#reloj {
+    background-color: rgba(191, 243, 227, 0.897);
+    color: rgb(36, 53, 53);
+    width: 200px;
+    height: 60px;
+    border: 2px solid rgb(174, 204, 211);
+    font-size: 50px;
+    text-align: center;
+    font-style: oblique;
+}
+
+h2 {
+    text-align: center;
+}
+
+#contador {
+    width: 300px;
+    height: 200px;
+}
+
+.cont {
+    text-align: -webkit-center;
+}
+
+.container {
+    text-align: center;
+}
+
+.focusIn:focus {
+    border-color: red;
+    box-shadow: 0 2px 2px rgba(229, 103, 23, 0.075);
+    outline: 0 none;
+}
+
+.focusIn {
+    border-color: red;
+    box-shadow: 0 2px 2px rgba(229, 103, 23, 0.075);
+    outline: 0 none;
+}
+
+.carousel {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    overflow: hidden;
+}
+
+#imagen {
+    width: 100%;
+    height: 400px;
+    background-size: 100% 100%;
+}
